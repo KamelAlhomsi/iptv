@@ -5,6 +5,11 @@ http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1333.ts
 #EXTINF:-1,Aljazeera Doc
 http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1324.ts
 
+#EXTINF:-1,DE: DW TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/8331.ts
+#EXTINF:-1,DE: WDR HD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/12245.ts
+
 #EXTINF:-1,Al Jazeera
 http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/800.m3u8
 
@@ -5004,6 +5009,3 @@ http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/36.ts
 http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/35.ts
 #EXTINF:-1,AR: ROTANA MUSIC
 http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/34.ts
-
-#EXTINF:-1,DE: WDR HD
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/12245.ts
