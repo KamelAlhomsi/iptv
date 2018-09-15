@@ -5,6 +5,9 @@ http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1333.ts
 #EXTINF:-1,Aljazeera Doc
 http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1324.ts
 
+#EXTINF:-1,AR: aljazeera
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/15026.ts
+
 #EXTINF:-1,AR: ALjazeera
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15387.ts
 #EXTINF:-1,AR: aljazeera
