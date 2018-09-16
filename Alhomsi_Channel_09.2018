@@ -18,7 +18,7 @@ http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/29.ts
 #EXTINF:-1,|AR|_SAMA_SYRIA
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/36.ts
 
-#EXTINF:-1,AR: SYRIA DRAMA
+#EXTINF:-1,AR: SYRIA DRAMA سوريا دراما
 http://145.239.0.158:8080/live/mehmet/mehmet123/10479.ts
 
 
@@ -30,19 +30,16 @@ http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/65.ts
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/62.ts
 #EXTINF:-1,AR: MBC Action (.)
 http://188.93.238.184:8000/live/snet/snet/648.ts
-
 #EXTINF:-1,MBC Drama
 http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1326.ts
 
-#EXTINF:-1,|AR|_ROTANA_KHALIJIA_TV
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/125.ts
-#EXTINF:-1,|AR|  ROTANA_MUSIC
-http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/194.ts
 #EXTINF:-1,|AR|  ROTANA_KHALIJI
 http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/193.ts
+#EXTINF:-1,AR: Aghanina
+http://145.239.0.158:8080/live/mehmet/mehmet123/10150.ts
+
 #EXTINF:-1,|AR|_MTV_lebenon
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/103.ts
-
 #EXTINF:-1,|AR|_BAHRAIN_SPORTS
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/140.ts
 #EXTINF:-1,|AR|_BAHRAIN_QURAN
@@ -1610,8 +1607,7 @@ http://145.239.0.158:8080/live/mehmet/mehmet123/10145.ts
 http://145.239.0.158:8080/live/mehmet/mehmet123/10148.ts
 #EXTINF:-1,AR: Aden tv
 http://145.239.0.158:8080/live/mehmet/mehmet123/10149.ts
-#EXTINF:-1,AR: Aghanina
-http://145.239.0.158:8080/live/mehmet/mehmet123/10150.ts
+
 #EXTINF:-1,AR: Aghapy TV
 http://145.239.0.158:8080/live/mehmet/mehmet123/10151.ts
 #EXTINF:-1,AR: AL AAN TV
