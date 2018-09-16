@@ -4,16 +4,27 @@
 http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1333.ts
 #EXTINF:-1,Aljazeera Doc
 http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1324.ts
+#EXTINF:-1,|AR|_Al_Jazeera_Documentaire
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/46.ts
+
 #EXTINF:-1,AR: ALjazeera
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15387.ts
-#EXTINF:-1,Alarabiyia
-http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1325.ts
-#EXTINF:-1,AR: Al arabia Alhadath
-http://145.239.0.158:8080/live/mehmet/mehmet123/10160.ts
-#EXTINF:-1,AR: Alhadath {news}
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10835.ts
+#EXTINF:-1,|AR|_Al_Arabiya
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/38.ts
+#EXTINF:-1,|AR|_Al_Hadath
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/40.ts
 #EXTINF:-1,AR: HALAB TODAY  
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19937.ts
+#EXTINF:-1,|AR|_FRANCE_24_AR
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/20.ts
+#EXTINF:-1,|AR|_Sky_News_Arabic
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/45.ts
+#EXTINF:-1,|AR|_BBC_Arabic
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/28.ts
+#EXTINF:-1,|AR|_Alalam_news
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/97.ts
+#EXTINF:-1,|AR|_DW_AR
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/22.ts
 
 #EXTINF:-1,|AR|_Syrian_Drama
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/29.ts
@@ -30,15 +41,22 @@ http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/61.ts
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/65.ts
 #EXTINF:-1,|AR|_MBC_4
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/62.ts
-#EXTINF:-1,AR: MBC Action (.)
-http://188.93.238.184:8000/live/snet/snet/648.ts
 #EXTINF:-1,MBC Drama
 http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1326.ts
+#EXTINF:-1,AR: MBC Action (.)
+http://188.93.238.184:8000/live/snet/snet/648.ts
 
-#EXTINF:-1,|AR|  ROTANA_KHALIJI
-http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/193.ts
-#EXTINF:-1,AR: Aghanina
-http://145.239.0.158:8080/live/mehmet/mehmet123/10150.ts
+#EXTINF:-1,BeIN Movies 1HD
+http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1473.ts
+#EXTINF:-1,BeIN Movies 2HD
+http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1474.ts
+#EXTINF:-1,BeIN Movies 3HD
+http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1475.ts
+#EXTINF:-1,BeIN Movies 4HD
+http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1476.ts
+
+
+
 
 #EXTINF:-1,|AR|_MTV_lebenon
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/103.ts
@@ -50,12 +68,8 @@ http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/139.ts
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/138.ts
 #EXTINF:-1,|AR|_BAHRAIN_TV
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/137.ts
-#EXTINF:-1,|AR|_Al_Jazeera_Documentaire
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/46.ts
-#EXTINF:-1,|AR|_Al_Arabiya
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/38.ts
-#EXTINF:-1,|AR|_Al_Hadath
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/40.ts
+
+
 #EXTINF:-1,|AR|_TUNISIE_NAT1_TV
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/57.ts
 #EXTINF:-1,|AR|_TUNISIE_NAT2_TV
@@ -80,20 +94,14 @@ http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/78.ts
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/77.ts
 #EXTINF:-1,|AR|_Libya_24
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/80.ts
-#EXTINF:-1,|AR|_FRANCE_24_AR
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/20.ts
-#EXTINF:-1,|AR|_Sky_News_Arabic
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/45.ts
-#EXTINF:-1,|AR|_BBC_Arabic
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/28.ts
+
 #EXTINF:-1,|AR|_ALAAN_TV
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/19.ts
 #EXTINF:-1,|AR|_RUSSIA ALYAOUM_TV
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/88.ts
 #EXTINF:-1,|AR|_hiwar_news
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/67.ts
-#EXTINF:-1,|AR|_Alalam_news
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/97.ts
+
 #EXTINF:-1,|AR|_SAUDI_ALIKHBARIYA_HD
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/3.ts
 
@@ -107,22 +115,15 @@ http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/126.ts
 
 
 
-#EXTINF:-1,|AR|_Iqraa
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/68.ts
-#EXTINF:-1,AR: iqraatv
-http://145.239.0.158:8080/live/mehmet/mehmet123/10112.ts
+
 #EXTINF:-1,IQRAA
 http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1345.ts
-
-
 #EXTINF:-1,|AR|_Makkah_TV
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/89.ts
 #EXTINF:-1,|AR|_SAUDI_SONNA_HD
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/5.ts
 #EXTINF:-1,|AR|_SAUDI_QURAN_HD
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/4.ts
-#EXTINF:-1,|AR|_SAUDI_THAKAFIYA_HD
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/6.ts
 #EXTINF:-1,|AR|_DUBAI_ONE_HD
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/15.ts
 #EXTINF:-1,|AR|_ABUDHABI_Emirat
@@ -167,16 +168,13 @@ http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/12.ts
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/16.ts
 #EXTINF:-1,|AR|_FUTURE_TV
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/17.ts
-#EXTINF:-1,|AR|_DW_AR
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/22.ts
+
 #EXTINF:-1,|AR|_DUBAI_ZAMAN
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/11.ts
 #EXTINF:-1,|AR|_DUBAI_TV_HD
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/10.ts
 #EXTINF:-1,|AR|_SHARJAH_SPORTS
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/39.ts
-#EXTINF:-1,|AR|_SAUDI_RIYADHIYA_1_HD
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/9.ts
 #EXTINF:-1,|AR|_DUBAI_RACING_1_HD
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/13.ts
 #EXTINF:-1,|AR|_DUBAI_RACING_2_HD
@@ -186,20 +184,6 @@ http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/18.ts
 
 #EXTINF:-1,AR:beIN SPORT 1 HD
 http://188.93.238.184:8000/live/snet/snet/37774.ts
-#EXTINF:-1,AR:beIN SPORT 2 HD.
-http://188.93.238.184:8000/live/snet/snet/37775.ts
-#EXTINF:-1,AR:beIN SPORT 3 HD
-http://188.93.238.184:8000/live/snet/snet/37776.ts
-#EXTINF:-1,AR:beIN SPORT 4 HD
-http://188.93.238.184:8000/live/snet/snet/37777.ts
-#EXTINF:-1,AR:beIN SPORT 5 HD
-http://188.93.238.184:8000/live/snet/snet/37778.ts
-#EXTINF:-1,AR:beIN SPORT 6 HD
-http://188.93.238.184:8000/live/snet/snet/37779.ts
-#EXTINF:-1,AR:beIN SPORT 7 HD
-http://188.93.238.184:8000/live/snet/snet/37780.ts
-#EXTINF:-1,AR:beIN SPORT 8 HD
-http://188.93.238.184:8000/live/snet/snet/37781.ts
 #EXTINF:-1,AR:beIN SPORT 9 HD
 http://188.93.238.184:8000/live/snet/snet/37782.ts
 #EXTINF:-1,AR:beIN SPORT 10 HD
@@ -212,20 +196,8 @@ http://188.93.238.184:8000/live/snet/snet/37785.ts
 http://188.93.238.184:8000/live/snet/snet/375.ts
 #EXTINF:-1,AR: Bein Sports 9 HD
 http://188.93.238.184:8000/live/snet/snet/376.ts
-#EXTINF:-1,AR: MBC Drama (.)
-http://188.93.238.184:8000/live/snet/snet/649.ts
-#EXTINF:-1,OSN Sports 1HD
-http://188.93.238.184:8000/live/snet/snet/37796.ts
-#EXTINF:-1,OSN Sports 2HD
-http://188.93.238.184:8000/live/snet/snet/37797.ts
-#EXTINF:-1,OSN Sports 3HD
-http://188.93.238.184:8000/live/snet/snet/37798.ts
-#EXTINF:-1,OSN Sports 4HD
-http://188.93.238.184:8000/live/snet/snet/37799.ts
 #EXTINF:-1,Dubai Sports Arab
 http://188.93.238.184:8000/live/snet/snet/37824.ts
-#EXTINF:-1,AD: Abu Dhabi Sports 1
-http://188.93.238.184:8000/live/snet/snet/2964.ts
 
 #EXTINF:-1,BeINSPORTS News
 http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1496.ts
@@ -307,14 +279,7 @@ http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1309.ts
 http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1310.ts
 #EXTINF:-1,Yahala Shabab HD
 http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1311.ts
-#EXTINF:-1,BeIN Movies 1HD
-http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1473.ts
-#EXTINF:-1,BeIN Movies 2HD
-http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1474.ts
-#EXTINF:-1,BeIN Movies 3HD
-http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1475.ts
-#EXTINF:-1,BeIN Movies 4HD
-http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1476.ts
+
 #EXTINF:-1,BeIN Discovery HD
 http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1478.ts
 #EXTINF:-1,BeIN GROUMMET
@@ -716,8 +681,6 @@ http://novaiptv.info:80/live/6677/6677/5849.ts
 http://novaiptv.info:80/live/6677/6677/5850.ts
 #EXTINF:-1,MyHD_Fight_Box_HD
 http://novaiptv.info:80/live/6677/6677/5852.ts
-#EXTINF:-1,MyHD_Myme_Music_HD
-http://novaiptv.info:80/live/6677/6677/5856.ts
 #EXTINF:-1,MyHD_MyZen_HD
 http://novaiptv.info:80/live/6677/6677/5855.ts
 #EXTINF:-1,MyHD_Planet Earth_HD
@@ -2370,26 +2333,6 @@ http://145.239.0.158:8080/live/mehmet/mehmet123/10443.ts
 http://145.239.0.158:8080/live/mehmet/mehmet123/10444.ts
 #EXTINF:-1,AR: qurantv
 http://145.239.0.158:8080/live/mehmet/mehmet123/10132.ts
-#EXTINF:-1,AR: Rotana Aflam HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/10445.ts
-#EXTINF:-1,AR: Rotana Cinema
-http://145.239.0.158:8080/live/mehmet/mehmet123/10446.ts
-#EXTINF:-1,AR: Rotana Cinema HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/10447.ts
-#EXTINF:-1,AR: Rotana Classic HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/10448.ts
-#EXTINF:-1,AR: Rotana clip
-http://145.239.0.158:8080/live/mehmet/mehmet123/10133.ts
-#EXTINF:-1,AR: ROTANA KHALIJIAH
-http://145.239.0.158:8080/live/mehmet/mehmet123/10449.ts
-#EXTINF:-1,AR: Rotana Khalijiah HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/10450.ts
-#EXTINF:-1,AR: Rotana Masria
-http://145.239.0.158:8080/live/mehmet/mehmet123/10451.ts
-#EXTINF:-1,AR: Rotana Masriah HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/10452.ts
-#EXTINF:-1,AR: Rotana Music HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/10453.ts
 #EXTINF:-1,AR: Sada El Balad 2
 http://145.239.0.158:8080/live/mehmet/mehmet123/10454.ts
 #EXTINF:-1,AR: Sada El Balad HD
@@ -2959,3 +2902,29 @@ http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9676.ts
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/10748.ts
 #EXTINF:-1,AR: DUBAI RASIN  2 local
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16579.ts
+#EXTINF:-1,|AR|  ROTANA_KHALIJI
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/193.ts
+#EXTINF:-1,AR: Aghanina
+http://145.239.0.158:8080/live/mehmet/mehmet123/10150.ts
+#EXTINF:-1,MyHD_Myme_Music_HD
+http://novaiptv.info:80/live/6677/6677/5856.ts
+#EXTINF:-1,AR: Rotana Aflam HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/10445.ts
+#EXTINF:-1,AR: Rotana Cinema
+http://145.239.0.158:8080/live/mehmet/mehmet123/10446.ts
+#EXTINF:-1,AR: Rotana Cinema HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/10447.ts
+#EXTINF:-1,AR: Rotana Classic HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/10448.ts
+#EXTINF:-1,AR: Rotana clip
+http://145.239.0.158:8080/live/mehmet/mehmet123/10133.ts
+#EXTINF:-1,AR: ROTANA KHALIJIAH
+http://145.239.0.158:8080/live/mehmet/mehmet123/10449.ts
+#EXTINF:-1,AR: Rotana Khalijiah HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/10450.ts
+#EXTINF:-1,AR: Rotana Masria
+http://145.239.0.158:8080/live/mehmet/mehmet123/10451.ts
+#EXTINF:-1,AR: Rotana Masriah HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/10452.ts
+#EXTINF:-1,AR: Rotana Music HD
+http://145.239.0.158:8080/live/mehmet/mehmet123/10453.ts
