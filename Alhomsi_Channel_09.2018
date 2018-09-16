@@ -34,10 +34,15 @@ http://188.93.238.184:8000/live/snet/snet/648.ts
 #EXTINF:-1,MBC Drama
 http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1326.ts
 
-#EXTINF:-1,|AR|_MTV_lebenon
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/103.ts
 #EXTINF:-1,|AR|_ROTANA_KHALIJIA_TV
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/125.ts
+#EXTINF:-1,|AR|  ROTANA_MUSIC
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/194.ts
+#EXTINF:-1,|AR|  ROTANA_KHALIJI
+http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/193.ts
+#EXTINF:-1,|AR|_MTV_lebenon
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/103.ts
+
 #EXTINF:-1,|AR|_BAHRAIN_SPORTS
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/140.ts
 #EXTINF:-1,|AR|_BAHRAIN_QURAN
@@ -1332,10 +1337,7 @@ http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/213.ts
 http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/197.ts
 #EXTINF:-1,|AR|  Samira_TV
 http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/196.ts
-#EXTINF:-1,|AR|  ROTANA_MUSIC
-http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/194.ts
-#EXTINF:-1,|AR|  ROTANA_KHALIJI
-http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/193.ts
+
 #EXTINF:-1,|AR|  Numidia1
 http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/172.ts
 #EXTINF:-1,|AR|  Numidia
