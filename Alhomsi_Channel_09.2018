@@ -2628,16 +2628,7 @@ http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20447.ts
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/14930.ts
 #EXTINF:-1,AR: MBC DRAMA HD  local
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/14929.ts
-#EXTINF:-1,AR: Rotana Cinema
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15336.ts
-#EXTINF:-1,AR: Rotana Classic  local
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15337.ts
-#EXTINF:-1,AR: Rotana Khaliji
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15339.ts
-#EXTINF:-1,AR: Rotana clip
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15338.ts
-#EXTINF:-1,AR: ROTANA MUSIK
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15341.ts
+
 #EXTINF:-1,AR:  OMAN TV  mobashir local
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15360.ts
 #EXTINF:-1,AR: Canal_Algerie
@@ -2646,8 +2637,6 @@ http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15435.ts
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20443.ts
 #EXTINF:-1,AR: CHANNEL 33  local
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20450.ts
-#EXTINF:-1,AR: Rotana Masriya
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15340.ts
 #EXTINF:-1,AR: DW    local
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11246.ts
 #EXTINF:-1,AR: I FILM LOCAL
@@ -2904,27 +2893,15 @@ http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/10748.ts
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16579.ts
 #EXTINF:-1,|AR|  ROTANA_KHALIJI
 http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/193.ts
-#EXTINF:-1,AR: Aghanina
-http://145.239.0.158:8080/live/mehmet/mehmet123/10150.ts
-#EXTINF:-1,MyHD_Myme_Music_HD
-http://novaiptv.info:80/live/6677/6677/5856.ts
-#EXTINF:-1,AR: Rotana Aflam HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/10445.ts
 #EXTINF:-1,AR: Rotana Cinema
-http://145.239.0.158:8080/live/mehmet/mehmet123/10446.ts
-#EXTINF:-1,AR: Rotana Cinema HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/10447.ts
-#EXTINF:-1,AR: Rotana Classic HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/10448.ts
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15336.ts
+#EXTINF:-1,AR: Rotana Classic  local
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15337.ts
+#EXTINF:-1,AR: Rotana Khaliji
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15339.ts
 #EXTINF:-1,AR: Rotana clip
-http://145.239.0.158:8080/live/mehmet/mehmet123/10133.ts
-#EXTINF:-1,AR: ROTANA KHALIJIAH
-http://145.239.0.158:8080/live/mehmet/mehmet123/10449.ts
-#EXTINF:-1,AR: Rotana Khalijiah HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/10450.ts
-#EXTINF:-1,AR: Rotana Masria
-http://145.239.0.158:8080/live/mehmet/mehmet123/10451.ts
-#EXTINF:-1,AR: Rotana Masriah HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/10452.ts
-#EXTINF:-1,AR: Rotana Music HD
-http://145.239.0.158:8080/live/mehmet/mehmet123/10453.ts
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15338.ts
+#EXTINF:-1,AR: ROTANA MUSIK
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15341.ts
+#EXTINF:-1,AR: Rotana Masriya
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15340.ts
