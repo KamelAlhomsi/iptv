@@ -6,6 +6,8 @@ http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1333.ts
 http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1324.ts
 #EXTINF:-1,|AR|_Al_Jazeera_Documentaire
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/46.ts
+#EXTINF:-1, Al Jazeera HD
+http://51.255.76.200:8000/live/bq41HE7N173gh2/8674542L8a3336/2325.ts
 
 #EXTINF:-1,AR: Al Jazeera
 http://163.172.222.83:8100/live/amir/123456789/123.ts
