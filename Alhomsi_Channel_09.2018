@@ -6,8 +6,7 @@ http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1333.ts
 http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1324.ts
 #EXTINF:-1,|AR|_Al_Jazeera_Documentaire
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/46.ts
-#EXTINF:-1 tvg-name="Al Jazeera" tvg-id="AlJazeeraArabe.nws" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/aljazeera.png",Al Jazeera
-http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
+
 #EXTINF:-1,AR: ALjazeera
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15387.ts
 #EXTINF:-1,|AR|_Al_Arabiya
@@ -2892,21 +2891,20 @@ http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9676.ts
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/10748.ts
 #EXTINF:-1,AR: DUBAI RASIN  2 local
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16579.ts
-#EXTINF:-1,|AR|  ROTANA_KHALIJI
-http://iptv.w-connect.org:8080/live/live_today/QDixDudYLR/193.ts
 #EXTINF:-1,AR: Rotana Cinema
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15336.ts
-#EXTINF:-1,AR: Rotana Classic  local
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15337.ts
-#EXTINF:-1,AR: Rotana Khaliji
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15339.ts
-#EXTINF:-1,AR: Rotana clip
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15338.ts
-#EXTINF:-1,AR: ROTANA MUSIK
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15341.ts
-#EXTINF:-1,AR: Rotana Masriya
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15340.ts
-
+http://163.172.222.83:8100/live/amir/123456789/31.ts
+#EXTINF:-1,AR: ROTANA AFLAM
+http://163.172.222.83:8100/live/amir/123456789/3045.ts
+#EXTINF:-1,AR: Rotana Classic
+http://163.172.222.83:8100/live/amir/123456789/32.ts
+#EXTINF:-1,AR: Rotana  Khalijia
+http://163.172.222.83:8100/live/amir/123456789/33.ts
+#EXTINF:-1,AR: Rotana Drama
+http://163.172.222.83:8100/live/amir/123456789/2731.ts
+#EXTINF:-1,AR: ROTANA CLIP
+http://163.172.222.83:8100/live/amir/123456789/3044.ts
+#EXTINF:-1,AR: Rotana Music
+http://163.172.222.83:8100/live/amir/123456789/34.ts
 
 #EXTINF:-1 tvg-name="Das Erste HD" tvg-id="ARD.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png",Das Erste HD
 https://daserstehdde-lh.akamaihd.net/i/daserstehd_de@629196/index_3776_av-p.m3u8
