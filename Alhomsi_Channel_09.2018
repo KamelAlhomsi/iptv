@@ -7,8 +7,10 @@ http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1324.ts
 #EXTINF:-1,|AR|_Al_Jazeera_Documentaire
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/46.ts
 
-#EXTINF:-1,AR: ALjazeera
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15387.ts
+#EXTINF:-1,AR: Al Jazeera
+http://163.172.222.83:8100/live/amir/123456789/123.ts
+#EXTINF:-1,AR: Jazeera Mubasher
+http://163.172.222.83:8100/live/amir/123456789/127.ts
 #EXTINF:-1,|AR|_Al_Arabiya
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/38.ts
 #EXTINF:-1,|AR|_Al_Hadath
@@ -25,6 +27,8 @@ http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/28.ts
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/97.ts
 #EXTINF:-1,|AR|_DW_AR
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/22.ts
+#EXTINF:-1,AR: ORIENTS NEWS
+http://163.172.222.83:8100/live/amir/123456789/2735.ts
 
 #EXTINF:-1,|AR|_Syrian_Drama
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/29.ts
