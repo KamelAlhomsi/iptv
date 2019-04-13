@@ -1,251 +1,192 @@
-#EXTINF:-1,mousssa_~ Arabic News ~
-#EXTINF:-1,mousssa_Al Hurra
-http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
-#EXTINF:-1,mousssa_BBC
-http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
-#EXTINF:-1,mousssa_Deutsche Welle
-http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
-#EXTINF:-1,mousssa_NRT
-http://prxy-wza-02.iptv-playoutcenter.de/nrtarabic/nrtarabic.stream_1/playlist.m3u8
-#EXTINF:-1,mousssa_TRT
-http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
-#EXTINF:-1,mousssa_~ Lebanon TV ~
-http://www.lengua.com/anthems/Lebanon.mp3
-#EXTINF:-1,mousssa_LBCi
-http://selevision9891-i.akamaihd.net/hls/live/219336/98919/1.m3u8
-#EXTINF:-1,mousssa_Future TV
-http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/master.m3u8
-#EXTINF:-1,mousssa_Arabica TV
-https://svs.itworkscdn.net/arabicatvlive/arabicatv/playlist.m3u8
-#EXTINF:-1,mousssa_Hawacom TV
-http://mobilestreaming.itworkscdn.com/hawacom/hawacomlive/playlist.m3u8
-#EXTINF:-1,mousssa_Al Mayadeen
-http://lmd.cdn.octivid.com/lmd/smil:switch.smil/chunklist_b850000_t64NTc2cA==.m3u8?v=1599780920
-#EXTINF:-1,mousssa_Al Manar
-http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8
-#EXTINF:-1,mousssa_~ Syria TV ~
-http://www.lengua.com/anthems/Syria.mp3
-#EXTINF:-1,mousssa_ANN
-http://ns8.indexforce.com:1935/ann/ann/playlist.m3u8
-#EXTINF:-1,mousssa_Sama TV
-http://sama-tv.net:1935/live/samatv/playlist.m3u8
-#EXTINF:-1,mousssa_Syria TV
-http://82.137.248.16:1935/Sat/SatLive2/playlist.m3u8
-#EXTINF:-1,mousssa_Nabd Syria
-http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=nabdsyria
-#EXTINF:-1,mousssa_~ Jordan TV  ~
-http://www.lengua.com/anthems/Jordan.mp3
-#EXTINF:-1,mousssa_Al Taghier
-http://stream1.joinvisions.net:1935/taglive/taghier/media_b340674_w2040724908.m3u8
-#EXTINF:-1,mousssa_Amen FM 89.5
-http://185.27.116.54:1935/live/amn/chunklist_w1521888123.m3u8
-#EXTINF:-1,mousssa_Semsem
-http://streaming.i-sat.tv:1935/live/semsem/playlist.m3u8
-#EXTINF:-1,mousssa_~ Palestine TV ~
-http://users.atw.hu/szbszig/palestine.mp3
-#EXTINF:-1,mousssa_Al Aqsa
-http://live.aqsatv.ps:1935/aqsatv/live/tv/playlist.m3u8
-#EXTINF:-1,mousssa_~ Iraq TV ~
-http://www.lengua.com/anthems/Iraq.mp3
-#EXTINF:-1,mousssa_Al Forat
-http://alforatlive.nanocdn.com:1935/live/alforat256/playlist.m3u8
-#EXTINF:-1,mousssa_Al Rasheed
-http://streamer11.elementssys.com:8080/alrashid/alrashid_850kbps/index.m3u8
-#EXTINF:-1,mousssa_Al Sharqiya
-http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
-#EXTINF:-1,mousssa_Sharqiya News
-http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
-#EXTINF:-1,mousssa_~ KSA TV ~
-http://www.lengua.com/anthems/SaudiArabia.mp3
-#EXTINF:-1,mousssa_Masdar TV
-http://streamer12.elementssys.com:8080/SAUDI-Channels/MASDAR_TV/index.m3u8
-#EXTINF:-1,mousssa_Rotana Cinema
-http://185.27.116.54:1935/live/rotanacinema/gmswf.m3u8?v=1599780920
-#EXTINF:-1,mousssa_Rotana Classic
-http://185.27.116.54:1935/live/rotanaclassic/gmswf.m3u8?v=1599780920
-#EXTINF:-1,mousssa_Rotana Clip
-http://185.27.116.54:1935/live/rotanaclip/gmswf.m3u8?v=1599780920
-#EXTINF:-1,mousssa_Wanasah
-http://mbcwanasatv-live.hls.adaptive.level3.net/hls-live/mbc-wanasatv/_definst_/live/stream1.m3u8
-#EXTINF:-1,mousssa_~ UAE TV ~
-http://www.lengua.com/anthems/UnitedArabEmirates.mp3
-#EXTINF:-1,mousssa_Al Aan
-http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/chunklist_w636969599_b800000_t64NTc2cA==.m3u8
-#EXTINF:-1,mousssa_Al Arabiya
-http://www.elahmad.com/tv/m3u8/arabiya.m3u8?id=aa
-#EXTINF:-1,mousssa_Al Dafrah TV
-http://live.aldafrah.tv:1935/live/myStream3/playlist.m3u8
-#EXTINF:-1,mousssa_CNBC Arabiya
-http://199.167.151.237:1935/live/sp15_37.stream/gmswf.m3u8
-#EXTINF:-1,mousssa_Emarat TV
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_alemarat
-#EXTINF:-1,mousssa_Dubai TV
-http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/master.m3u8
-#EXTINF:-1,mousssa_Dubai TV*
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv
-#EXTINF:-1,mousssa_Dubai One
-http://dmivll.mangomolo.com/dubaione/smil:dubaione.smil/master.m3u8
-#EXTINF:-1,mousssa_Dubai One*
-http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/master.m3u8
-#EXTINF:-1,mousssa_Dubai One**
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
-#EXTINF:-1,mousssa_Dubai Zaman
-http://dmivll.mangomolo.com/dubaizaman/smil:dubaizaman.smil/chunklist_b1200000.m3u8
-#EXTINF:-1,mousssa_Dubai Zaman*
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaizaman
-#EXTINF:-1,mousssa_Dubai Sports
-http://selevision9888-i.akamaihd.net/hls/live/219305/98888/1.m3u8
-#EXTINF:-1,mousssa_Dubai Sports*
-http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
-#EXTINF:-1,mousssa_Sama Dubai
-http://dmi.mangomolo.com:1935/samadubai/smil:samadubai.smil/master.m3u8
-#EXTINF:-1,mousssa_Sama Dubai*
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=samadubai
-#EXTINF:-1,mousssa_YAS Sports
-http://selevision9878-i.akamaihd.net/hls/live/219130/98782/master.m3u8
-#EXTINF:-1,mousssa_Dubai Racing 1
-http://dmivll.mangomolo.com/events/smil:events.smil/master.m3u8
-#EXTINF:-1,mousssa_Dubai Racing 2
-http://dmivll.mangomolo.com/dubairacing/smil:dubairacing.smil/master.m3u8
-#EXTINF:-1,mousssa_Abu Dhabi TV
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
-#EXTINF:-1,mousssa_Abu Dhabi Drama
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
-#EXTINF:-1,mousssa_National Geographic
-http://adtv.ercdn.net/adnatgeo/adnatgeo.m3u8
-#EXTINF:-1,mousssa_Zee Aflam (Hindi)
-http://hls.alwhdat.net/ios/zee_aflam_t.m3u8
-#EXTINF:-1,mousssa_Abu Dhabi Sports
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
-#EXTINF:-1,mousssa_Abu Dhabi Sports SD
-http://adtv.ercdn.net/adsport1/adsport1.m3u8
-#EXTINF:-1,mousssa_Abu Dhabi Sports SD*
-http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
-#EXTINF:-1,mousssa_Abu Dhabi Sports HD
-http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
-#EXTINF:-1,mousssa_Abu Dhabi Sports 2
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
-#EXTINF:-1,mousssa_Abu Dhabi Sports 2 SD
-http://adtv.ercdn.net/adsport2/adsport2.m3u8
-#EXTINF:-1,mousssa_Abu Dhabi Sports 2 SD*
-http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
-#EXTINF:-1,mousssa_Abu Dhabi Sports 2 HD
-http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-#EXTINF:-1,mousssa_Abu Dhabi Sports 3
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
-#EXTINF:-1,mousssa_Abu Dhabi Sports 4
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
-#EXTINF:-1,mousssa_Abu Dhabi Sports 5
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports5
-#EXTINF:-1,mousssa_Abu Dhabi Sports 6
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports6
-#EXTINF:-1,mousssa_~ Qatar TV ~
-http://www.lengua.com/anthems/Qatar.mp3
-#EXTINF:-1,mousssa_Al Jazeera
-http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/800.m3u8
-#EXTINF:-1,mousssa_Al Jazeera Mubasher
-http://aljazeera-mubasher-apple-live.adaptive.level3.net/apple/aljazeera/mubasher/300.m3u8
-#EXTINF:-1,mousssa_Al Jazeera Documentary
-http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
-#EXTINF:-1,mousssa_Al Kass Sports
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
-#EXTINF:-1,mousssa_Al Kass Sports 2
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
-#EXTINF:-1,mousssa_Al Kass Sports 3
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
-#EXTINF:-1,mousssa_Al Kass Sports 4
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
-#EXTINF:-1,mousssa_Al Kass Sports 5
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
-#EXTINF:-1,mousssa_~ Kuwait TV ~
-http://www.lengua.com/anthems/Kuwait.mp3
-#EXTINF:-1,mousssa_Al Rai
-http://stream02.fasttelco.net/4/pub/asset/28/streams.m3u8
-#EXTINF:-1,mousssa_KTV 1
-https://svs.itworkscdn.net/ktv1live/ktv1.smil/playlist.m3u8
-#EXTINF:-1,mousssa_KTV 1*
-http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv1
-#EXTINF:-1,mousssa_KTV 2
-http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv2
-#EXTINF:-1,mousssa_KTV 2*
-https://svs.itworkscdn.net/ktv2live/ktv2.smil/playlist.m3u8
-#EXTINF:-1,mousssa_KTV Sport
-http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv3
-#EXTINF:-1,mousssa_KTV Al Arabi
-https://svs.itworkscdn.net/ktvarabelive/karabe.smil/playlist.m3u8
-#EXTINF:-1,mousssa_KTV Plus
-https://svs.itworkscdn.net/ktvpluslive/kplus.smil/playlist.m3u8
-#EXTINF:-1,mousssa_KTV Al Majlis
-https://svs.itworkscdn.net/ktvalmajlislive/kalmajlis.smil/playlist.m3u8
-#EXTINF:-1,mousssa_~ Oman TV ~
-http://www.lengua.com/anthems/Oman.mp3
-#EXTINF:-1,mousssa_Oman TV
-http://38.96.148.30:1935/live/omantv1//playlist.m3u8
-#EXTINF:-1,mousssa_Oman TV*
-http://37.152.128.66:7009/play/a00j
-#EXTINF:-1,mousssa_Oman Mubasher
-http://38.96.148.30:1935/live/omantv3/playlist.m3u8
-#EXTINF:-1,mousssa_Oman Documentary
-http://38.96.148.30:1935/live/omantv4/playlist.m3u8
-#EXTINF:-1,mousssa_Oman Sports
-http://38.96.148.30:1935/live/omantv2//playlist.m3u8
-#EXTINF:-1,mousssa_~ Yemen TV ~
-http://www.lengua.com/anthems/Yemen.mp3
-#EXTINF:-1,mousssa_Yemen TV [Off]
-http://199.167.151.237:1935/live/sp15_38.stream/gmswf.m3u8
-#EXTINF:-1,mousssa_Al Masirah
-http://livestreaming4.itworkscdn.com/masira/livetv1/playlist.m3u8
-#EXTINF:-1,mousssa_~ Egypt TV ~
-http://www.lengua.com/anthems/Egypt.mp3
-#EXTINF:-1,mousssa_CBC
-http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=cbc&t=ar
-#EXTINF:-1,mousssa_Al Kahera Wal Nas
-http://selevision9877-i.akamaihd.net/hls/live/219125/98777/1.m3u8
-#EXTINF:-1,mousssa_El Sharq [Off]
-http://cdn.edge.tmed.pw:8081/elsharqtv_main/main/playlist.m3u8
-#EXTINF:-1,mousssa_Mekameleen
-http://mn-i.mncdn.com/mekameleen_ios/smil:mekameleen_ios.smil/chunklist.m3u8
-#EXTINF:-1,mousssa_Nile Cinema
-http://selevision9883-i.akamaihd.net/hls/live/219204/98830/1.m3u8
-#EXTINF:-1,mousssa_~ Tunisia TV ~
-http://www.lengua.com/anthems/Tunisia.mp3
-#EXTINF:-1,mousssa_Nessma [Geo]
-http://cdn-hls.globecast.tv/live/ramdisk/nessma_eur/hls_video/nessma_eur-video=1562800-audio_AACL_und_65200_120=65200.m3u8
-#EXTINF:-1,mousssa_Nessma*
-http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=nessma
-#EXTINF:-1,mousssa_~ Libya TV ~
-http://www.lengua.com/anthems/Libya.mp3
-#EXTINF:-1,mousssa_Al Nabaa
-http://www.elahmad.com/tv/m3u8/edgecastcdn.m3u8?id=nabaa_tv
-#EXTINF:-1,mousssa_Libya 218
-http://91.134.145.75:10001/218tv/218tv/playlist.m3u8
-#EXTINF:-1,mousssa_Libya TV
-http://starmena.ercdn.net/libyaschannel/libyaschannel_480p.m3u8
-#EXTINF:-1,mousssa_~ Algeria TV ~
-http://www.lengua.com/anthems/Algeria.mp3
-#EXTINF:-1,mousssa_Dzair TV [Geo]
-http://cdn-hls.globecast.tv/live/ramdisk/dzair_tv/hls_video/dzair_tv-video=1562800-audio_AACL_und_65200_120=65200.m3u8
-#EXTINF:-1,mousssa_Ennahar TV
-http://selevision9887-i.akamaihd.net/hls/live/219290/98874/1.m3u8
-#EXTINF:-1,mousssa_~ Morocco TV ~
-http://www.lengua.com/anthems/Morocco.mp3
-#EXTINF:-1,mousssa_Al Aoula
-http://95.81.155.40/5958/index.m3u8
-#EXTINF:-1,mousssa_Al Aoula Int'l
-http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
-#EXTINF:-1,mousssa_Al Aoula Laayoune
-http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
-#EXTINF:-1,mousssa_Arryadia
-http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
-#EXTINF:-1,mousssa_Arrabiaa
-http://cdn-hls.globecast.tv/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
-#EXTINF:-1,mousssa_Al Maghribia
-http://cdn-hls.globecast.tv/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
-#EXTINF:-1,mousssa_Assadissa
-http://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/index.m3u8
-#EXTINF:-1,mousssa_Tamazight
-http://cdn-hls.globecast.tv/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
-#EXTINF:-1,mousssa_~ Ethiopia TV ~
-http://www.lengua.com/anthems/Ethiopia.mp3
-#EXTINF:-1,mousssa_Kana TV
-http://kanatv-lh.akamaihd.net/i/KanaTV_1@435010/master.m3u8
+
+http://kimbogrupol.com:25461/get.php?username=Luis&password=1234&type=m3u
+
+http://psrv.io:80/get.php?username=CaS01XxWvu4&password=6879304603&type=m3u
+
+http://dynds.iptvposokuca.info:80/playlist.m3u?type=m3u&channelId=10&uid=59&deviceUser=danielrazmjena&devicePass=proba
+
+http://185.165.243.104:25461/get.php?username=Malu&password=Malu&type=m3u
+
+http://xx.servelive.net:80/get.php?username=leonardo2&password=leonardo3&type=m3u
+
+http://edr.akiptv.biz:8000/get.php?username=eryilmaz1&password=eryilmaz123&type=m3u
+
+http://quatv2.com:8880/get.php?username=09&password=09&type=m3u
+
+http://xxx.tvipbr.net:8880/get.php?username=Egberto&password=12345&type=m3u
+
+http://bldtv.vip:80/get.php?username=abc123&password=abc123&type=m3u
+
+http://xx2.servelive.net:80/get.php?username=Kelly&password=123456&type=m3u
+
+http://xx2.servelive.net:80/get.php?username=Leandro&password=123456&type=m3u
+
+http://xx.servelive.net:80/get.php?username=Marcio&password=1234&type=m3u
+
+http://fastiptv.ddnss.de:8000/get.php?username=test2019&password=hf7ydvI3lc&type=m3u
+
+http://bldtv.vip:80/get.php?username=sidney2&password=123&type=m3u
+
+http://m-iptv.net:6204/get.php?username=waell&password=123&type=m3u
+
+http://sv1.mayootv.ovh:1914/get.php?username=medoum1&password=FH6Oxe1vOH&type=m3u
+
+http://get.indotv.live:9889/get.php?username=gratis&password=lagi&type=m3u
+
+http://xx2.servelive.net:80/get.php?username=Eber&password=123456&type=m3u 
+
+http://m-iptv.net:6204/get.php?username=robert123&password=123&type=m3u
+
+http://xx2.servelive.net:80/get.php?username=Denise&password=123456&type=m3u 
+
+http://185.169.253.172:8080/get.php?username=abed&password=abed123xx&type=m3u
+
+http://bldtv.vip:80/get.php?username=jojo&password=jojo&type=m3u 
+
+http://xx.servelive.net:80/get.php?username=Deivid&password=123456&type=m3u 
+
+http://bldtv.vip:80/get.php?username=charles&password=charles1&type=m3u 
+
+http://xx.servelive.net:80/get.php?username=Daniel&password=123456&type=m3u 
+
+http://bldtv.vip:80/get.php?username=Ederson&password=1234&type=m3u 
+
+http://xx2.servelive.net:80/get.php?username=Damiao&password=123&type=m3u 
+
+http://xx.servelive.net:80/get.php?username=Dalila&password=12345&type=m3u 
+
+http://xx.servelive.net:80/get.php?username=Cleusa&password=1234&type=m3u 
+
+http://xxx.tvipbr.net:2082/get.php?username=Clayton&password=123456&type=m3u 
+
+http://clienteworld.com:8080/get.php?username=ione&password=ione&type=m3u 
+
+http://m3u.iptvstreaming.org:25461/get.php?username=leonardo.santambrogio@gmail.com&password=f4qmoilq9masn6vzb8zx&type=m3u 
+
+http://viptv2.dyndns.tv:2086/get.php?username=kronos&password=1234&type=m3u 
+
+http://maxptv.ddns.net:25461/get.php?username=Lays&password=1234&type=m3u 
+
+http://maxptv.ddns.net:25461/get.php?username=Itamar&password=1234&type=m3u 
+
+http://maxptv.ddns.net:25461/get.php?username=Erica&password=1234&type=m3u 
+
+http://maxptv.ddns.net:25461/get.php?username=Eliete&password=1234&type=m3u 
+
+http://maxptv.ddns.net:25461/get.php?username=Cleiton&password=1234&type=m3u 
+
+http://eir4.pikaflik.co.uk:80/playlist.m3u?type=m3u&channelId=367&deviceMac=00:1A:79:BE:2F:F6&uid=1615 
+
+http://mrsatstream2.ddns.net:80/get.php?username=plinio1&password=plinio2&type=m3u 
+
+http://iptv-line.com:6969/get.php?username=olpngo1&password=ThSSgduYAD&type=m3u 
+
+http://bldtv.vip:80/get.php?username=70&password=70&type=m3u 
+
+http://web1.giffy.be:8080/get.php?username=JF6qqI6R15&password=v11Ju2spmU&type=m3u 
+
+http://46.166.148.101:8000/get.php?username=uvV9QK3Y4s&password=zMB5nK1Bcl&type=m3u 
+
+http://fonte.iptvmaishd.com:25461/get.php?username=6348&password=6348&type=m3u 
+
+http://163.172.7.148:3456/get.php?username=FREEaleks&password=zZxvtXb5PL&type=m3u 
+
+http://fonte.iptvmaishd.com:25461/get.php?username=6036&password=6036&type=m3u 
+
+http://fonte.iptvmaishd.com:25461/get.php?username=6028&password=6028&type=m3u 
+
+http://fonte.iptvmaishd.com:25461/get.php?username=6000&password=6000&type=m3u 
+
+http://fonte.iptvmaishd.com:25461/get.php?username=5900&password=5900&type=m3u 
+
+http://fonte.iptvmaishd.com:25461/get.php?username=5799&password=5799&type=m3u 
+
+http://fonte.iptvmaishd.com:25461/get.php?username=4963&password=4963&type=m3u 
+
+http://fonte.iptvmaishd.com:25461/get.php?username=8722&password=8722&type=m3u 
+
+http://fonte.iptvmaishd.com:25461/get.php?username=8440&password=8440&type=m3u 
+
+http://194.88.107.101:6204/get.php?username=waell&password=123&type=m3u
+
+http://smart-hdip.com:6204/get.php?username=robert123&password=123&type=m3u
+
+http://c2z.me:8000/get.php?username=latifa&password=9876543210&type=m3u
+
+http://voxtv.dynns.com:8000/get.php?username=indian&password=indian&type=m3u
+
+http://m-iptv.net:6204/get.php?username=jon&password=123456&type=m3u_plus&output=ts
+
+http://vizionsinema.eu:2018/get.php?username=progamezdizi&password=dsDIk62emy&type=m3u
+
+http://tv.iptvsensation.org:6500/get.php?username=v7cEyu35Bt&password=X5IaaEu6Js&type=m3u
+
+http://lista.red:8880/get.php?username=edimilson&password=edimilson&type=m3u
+
+http://lista.g5iptv.space:8080/get.php?username=1020&password=1020&type=m3u
+
+http://lista.red:8880/get.php?username=osmar&password=osmar&type=m3u
+
+http://lista.red:8880/get.php?username=claudio&password=claudio&type=m3u
+
+http://fonte.iptvmaishd.com:25461/get.php?username=7232&password=7232&type=m3u
+
+http://lista.red:8880/get.php?username=022&password=022&type=m3u
+
+http://www.freeiptvdaily.net:8000/get.php?username=9642&password=4169&type=m3u
+
+http://kimbogrupol.com:25461/get.php?username=martha&password=martha&type=m3u
+
+http://fonte.iptvmaishd.com:25461/get.php?username=121212&password=121212&type=m3u
+
+http://smart-hdip.com:6204/get.php?username=OoesIRzgNP&password=8kW83aN4dr&type=m3u
+
+http://128.199.182.109:8888/get.php?username=760bxx&password=malang&type=m3u
+
+http://163.172.35.210:8000/get.php?username=teqifsharopt&password=donmevjedh&type=m3u
+
+http://163.172.107.234:1914/get.php?username=1111&password=1111&type=m3u
+
+http://185.165.243.104:25461/get.php?username=Tyfany&password=Tyfany&type=m3u
+
+http://kimbogrupol.com:25461/get.php?username=sergio&password=sergio&type=m3u
+
+http://line.dynoconnect.me:8000/get.php?username=test4&password=test4&type=m3u
+
+http://jack.dyndns.tv:15800/get.php?username=angelo1&password=angelo1&type=m3u
+
+http://tvabertacanais.ml:8080/get.php?username=canais&password=36145544&type=m3u
+
+http://151.80.100.155:25443/get.php?username=vodall&password=vrIzSCaxGN&type=m3u
+
+http://pro.falconiptv.com:25461/get.php?username=55sw3k7&password=4994md6&type=m3u
+
+http://sv1.mayootv.ovh:1914/get.php?username=medoum1&password=FH6Oxe1vOH&type=m3u
+
+http://m-iptv.net:6204/get.php?username=OoesIRzgNP&password=8kW83aN4dr&type=m3u
+
+http://37.59.41.145:5050/get.php?username=admin&password=dreemedia&type=m3u
+
+http://62.210.141.179:8000/get.php?username=ibrahim&password=123456&type=m3u
+
+http://vizionsinema.eu:2018/get.php?username=progamezdizi&password=dsDIk62emy&type=m3u
+
+http://163.172.107.234:1914/get.php?username=medoum1&password=FH6Oxe1vOH&type=m3u
+
+http://60.221.255.83:9981/playlist?profile=pass
+
+http://116.42.214.80:9981/playlist
+
+http://49.166.196.215:9981/playlist 
+
+http://180.66.232.8:9981/playlist
+
+http://185.129.1.248:8000/playlist.m3u8
+
+http://85.0.26.89:7777/playlist.m3u8
+
+http://41.226.164.203:4000/playlist.m3u8
+
+http://80.36.58.181:9981/playlist
+
+http://189.213.148.234:9981/playlist
